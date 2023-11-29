@@ -1,1 +1,4 @@
 ola pessoal!!...
+
+Quais são os valores do Manifesto Ágil?
+Indivíduos e a interação entre eles, mais que processos e ferramentas;
